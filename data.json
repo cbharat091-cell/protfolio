@@ -1,0 +1,74 @@
+{
+  "Color": "#ff5733",
+  "Head": {
+    "title": "Bharat Chaudhary | Senior Executive - QMS",
+    "NavbarName": "Bharat Chaudhary"
+  },
+  "HomePage": {
+    "name": "Bharat Chaudhary",
+    "Position": [
+      "Senior Executive - QMS",
+      "Quality Assurance",
+      "Regulatory Compliance"
+    ],
+    "description": "Senior Executive in Quality Management System (QMS) at Premier Medical Corporation Pvt. Ltd., focused on QA, risk management, and regulatory compliance for IVD products."
+  },
+  "AboutPage": {
+    "AboutParagraph": "Hello, my name is Bharat Chaudhary. I hold a Bachelor of Pharmacy (B.Pharm) degree and currently work as a Senior Executive in the Quality Management System (QMS) at Premier Medical Corporation Private Limited. I’m involved in Quality Assurance activities including documentation, risk management, and compliance with ISO 13485 and IVDR requirements. I’m passionate about improving process efficiency, ensuring regulatory compliance, and contributing to the overall quality of in vitro diagnostic (IVD) products.",
+    "ImageLink": "/images/Untitled.jpg"
+  },
+  "Skills": [
+    "Quality Assurance",
+    "ISO 13485",
+    "IVDR Compliance",
+    "Risk Management",
+    "Documentation & SOPs"
+  ],
+  "Projects": [
+    {
+      "title": "ISO 13485:2016 QMS Implementation",
+    "ImageLink": "/images/iso-9001-qms-documentation-how-to-structure-it.webp",
+      "Status": "Completed",
+      "ProjectName": "Implementation of ISO 13485:2016 Compliance System and QMS Optimization",
+      "Technologies": [
+        "ISO 13485:2016",
+        "QMS",
+        "SOP Development",
+        "Document Control"
+      ],
+      "Description": "Established and strengthened the Quality Management System (QMS) in compliance with ISO 13485:2016 within an In Vitro Diagnostic (IVD) manufacturing setup. Developed and standardized SOPs, optimized document control, and ensured systematic review and approval workflows to enhance QMS efficiency, compliance, and product quality."
+    },
+    {
+      "title": "IVDR Implementation Project",
+  "ImageLink": "/images/directive-eu-2017-746-1.jpg",
+      "Status": "Completed",
+      "ProjectName": "Implementation of ISO 13485:2016 and EU IVDR 2017/746 Compliance System",
+      "Technologies": [
+        "EU IVDR 2017/746",
+        "ISO 13485:2016",
+        "QMS",
+        "Regulatory Compliance"
+      ],
+      "Description": "Harmonized the Quality Management System (QMS) with ISO 13485:2016 and EU IVDR 2017/746 regulatory requirements. Included SOP revisions, document control enhancement, and integration of regulatory compliance into daily operations to improve audit readiness, traceability, and overall product quality."
+    },
+    {
+      "title": "Quality Documentation System Enhancement",
+  "ImageLink": "/images/images.jpg",
+      "Status": "Completed",
+      "ProjectName": "Quality Documentation System Enhancement",
+      "Technologies": [
+        "Document Control",
+        "SOP Management",
+        "Quality Assurance",
+        "Process Optimization"
+      ],
+      "Description": "Implemented a structured approach to document management, version control, and approval workflows. Standardized templates, established review cycles, and streamlined document retrieval to improve compliance and reduce audit preparation time."
+    }
+  ],
+  "Contact": {
+    "Email": "cbharat02312@gmail.com",
+    "Phone": "+91 7069676502",
+    "Github": "https://github.com/",
+    "LinkedIn": "https://www.linkedin.com/in/bharat-chaudhary-5a515a13a"
+  }
+}
