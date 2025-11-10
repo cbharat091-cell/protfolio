@@ -15,7 +15,7 @@
   },
   "AboutPage": {
     "AboutParagraph": "Hello, my name is Bharat Chaudhary. I hold a Bachelor of Pharmacy (B.Pharm) degree and currently work as a Senior Executive in the Quality Management System (QMS) at Premier Medical Corporation Private Limited. I’m involved in Quality Assurance activities including documentation, risk management, and compliance with ISO 13485 and IVDR requirements. I’m passionate about improving process efficiency, ensuring regulatory compliance, and contributing to the overall quality of in vitro diagnostic (IVD) products.",
-    "ImageLink": "/images/Untitled.jpg"
+    "ImageLink": "/Untitled.jpg"
   },
   "Skills": [
     "Quality Assurance",
@@ -27,7 +27,7 @@
   "Projects": [
     {
       "title": "ISO 13485:2016 QMS Implementation",
-    "ImageLink": "/images/iso-9001-qms-documentation-how-to-structure-it.webp",
+    "ImageLink": "/iso-9001-qms-documentation-how-to-structure-it.webp",
       "Status": "Completed",
       "ProjectName": "Implementation of ISO 13485:2016 Compliance System and QMS Optimization",
       "Technologies": [
@@ -40,7 +40,7 @@
     },
     {
       "title": "IVDR Implementation Project",
-  "ImageLink": "/images/directive-eu-2017-746-1.jpg",
+  "ImageLink": "/directive-eu-2017-746-1.jpg",
       "Status": "Completed",
       "ProjectName": "Implementation of ISO 13485:2016 and EU IVDR 2017/746 Compliance System",
       "Technologies": [
@@ -53,7 +53,7 @@
     },
     {
       "title": "Quality Documentation System Enhancement",
-  "ImageLink": "/images/images.jpg",
+  "ImageLink": "/Image_jpg 1.jpg",
       "Status": "Completed",
       "ProjectName": "Quality Documentation System Enhancement",
       "Technologies": [
